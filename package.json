@@ -1,0 +1,14 @@
+{
+  "name": "78d533a846567d74",
+  "main": "78d533a846567d74@282.js",
+  "version": "282.0.0",
+  "homepage": "https://observablehq.com/d/78d533a846567d74",
+  "author": {
+    "name": "s-amuel",
+    "url": "https://observablehq.com/@s-amuel"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
